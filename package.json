@@ -2,7 +2,7 @@
   "name": "globus",
   "version": "0.1.0",
   "private": true,
-  "engines": { "node": "18.x" },
+  "engines": { "node": "18" },
   "scripts": {
     "dev": "node server.js",
     "build": "next build",
